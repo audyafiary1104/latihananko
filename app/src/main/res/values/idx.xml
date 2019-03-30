@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_username" type="id"/>
+    <item name="et_password" type="id"/>
+    <item name="btn" type="id"/>
+    <item name="tv_ca" type="id"/>
+    <item name="tv_re" type="id"/>
+    <item name="etuname" type="id"/>
+    <item name="et_fullname" type="id"/>
+    <item name="etpassword" type="id"/>
+    <item name="btnregis" type="id"/>
+    <item name="loginemail1" type="id"/>
+    <item name="loginpassword" type="id"/>
+    <item name="btnlogin1" type="id"/>
+    <item name="forgot" type="id"/>
+    <item name="notmember" type="id"/>
+    <item name="berhasil" type="id"/>
+    <item name="welcome" type="id"/>
+
+</resources>
